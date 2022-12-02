@@ -145,7 +145,8 @@ public class task2 extends JFrame{
 
         frame.setJMenuBar(menuBar);
 
-        c.fill = GridBagConstraints.HORIZONTAL; c.anchor=GridBagConstraints.CENTER;
+        c.fill = GridBagConstraints.HORIZONTAL;
+        c.anchor=GridBagConstraints.CENTER;
         c.insets=new Insets(20,50,20,50);
         c.ipady = 50;
         c.weightx = 0.5;
