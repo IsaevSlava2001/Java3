@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb0eef2e-eb07-41a3-989e-3dea4bca9564" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../NUMBER4/task4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NUMBER4/task4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER6/src (2)/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../NUMBER6/src (2)/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting/Convertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shells/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shells/Exercise2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shells/Exercise3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shells/Exercise5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J3Czo9ukSxTLwKszR3Fllab7Zn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/1655299/Desktop/ГИТХАБ/Java3/NUMBER8"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb0eef2e-eb07-41a3-989e-3dea4bca9564" name="Changes" comment="" />
+      <created>1671297644395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671297644395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

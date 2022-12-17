@@ -95,19 +95,19 @@ public class QuickSort {
         quickSort(iDNumber2, 0, iDNumber2.length - 1);
         for (Student s : iDNumber2)
             System.out.println(s);
-        /*System.out.println();
+        System.out.println();
         for (Student s : iDNumber2)
             System.out.println(s);
         System.out.println();
         Student [] ans = new Student[iDNumber.length + iDNumber2.length];
         System.arraycopy(iDNumber, 0, ans, 0, iDNumber.length);
         System.arraycopy(iDNumber2, 0, ans, iDNumber.length, iDNumber2.length);
-*/
 
 
-        //mergeSort(ans, ans.length);
-        /*System.out.print("Ответ:\n");
+
+        mergeSort(ans, ans.length);
+        System.out.print("Ответ:\n");
         for (Student s : ans)
-            System.out.println(s);*/
+            System.out.println(s);
     }
 }

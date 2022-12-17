@@ -2,93 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3eeaf3c-bf2b-4d36-a321-20f75979ce24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Java7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/Java7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/out/production/Java7/GameDequeue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/out/production/Java7/GameGraphic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/out/production/Java7/GameList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/out/production/Java7/GameQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/out/production/Java7/GameStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/src/GameDequeue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/src/GameGraphic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/src/GameList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/src/GameQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java7/src/GameStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/out/production/untitled1/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/out/production/untitled1/BallTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/out/production/untitled1/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/src/Ball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/src/BallTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task1/untitled1/untitled1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/JAVA2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/out/production/JAVA2/Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/out/production/JAVA2/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/out/production/JAVA2/TestAuthor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/out/production/JAVA2/TestBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/src/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/src/Ball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/src/TestAuthor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2/JAVA2/src/TestBall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Movable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/MovableCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/MovablePoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/MovableRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/out/production/untitled2/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/MovableCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/MovablePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/MovableRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/src/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task3/untitled2/untitled2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/out/production/task4/MyMouse$TestActionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/out/production/task4/MyMouse$TestActionListener1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/out/production/task4/MyMouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/task4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/out/production/untitled3/MyMouse$TestActionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/out/production/untitled3/MyMouse$TestActionListener1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/out/production/untitled3/MyMouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/src/LabExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4/untitled3/untitled3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/Java5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/out/production/Java5/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/out/production/Java5/main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/src/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/Java5/src/main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER4/task4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NUMBER4/task4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER6/src (2)/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../NUMBER6/src (2)/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise2/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Exercise4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Formatting/Convertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Formatting/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Formatting/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Formatting/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Shells/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Shells/Exercise2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Shells/Exercise3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NUMBER8/src (6)/Shells/Exercise5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -111,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/1655299/Desktop/ГИТХАБ/Java3/src (7)"
+    "last_opened_file_path": "C:/Users/1655299/Desktop/ГИТХАБ/Java3/NUMBER10/src"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
