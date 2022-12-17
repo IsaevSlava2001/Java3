@@ -1,49 +1,40 @@
-public class Student implements Comparable
+public class Student
 {
 
-    private int idNum;
-    private int GPA;
+    private String firstName,secondName, specialty, group;
+    private int course, GPA;
 
-    public Student(int idNum, int GPA)
-    {
-        this.idNum = idNum;
+    public Student(String firstName, int GPA){
+        this.firstName = firstName;
+        this.GPA = GPA;
+        secondName = "Isaev";
+        specialty = "Prog";
+        course = 2;
+        group = "ikbo-04-21";
+    }
+    public Student(String firstName, String secondName, String specialty, int course, String group, int GPA) {
+        this.firstName = firstName;
+        this.secondName = secondName;
+        this.specialty = specialty;
+        this.course = course;
+        this.group = group;
         this.GPA = GPA;
     }
 
     @Override
-    public String toString()
-    {
-        return "Student{" +
-                "idNum=" + idNum +
-                ", GPA=" + GPA +
-                '}';
+    public String toString() {
+        return "Студент " + firstName + " " + secondName + ":\n"
+                + "    Специальность: " + specialty + "\n"
+                + "    Курс: " + course + "\n"
+                + "    Группа: " + group + "\n"
+                + "    Средняя оценка: " + GPA + "\n";
     }
 
-    public int getIdNum()
-    {
-        return idNum;
-    }
-
-    public void setIdNum(int idNum)
-    {
-        this.idNum = idNum;
-    }
-
-    public int getGPA()
-    {
+    public int getGPA() {
         return GPA;
     }
 
-    public void setGPA(int GPA)
-    {
-        this.GPA = GPA;
-    }
-
-    @Override
-    public int compareTo(Object o)
-    {
-        if(!(o instanceof Student))
-            throw new IllegalArgumentException("Объект не студентом!");
-        return this.idNum - ((Student) o).idNum;
+    public void setGPA(int newGPA) {
+        GPA = newGPA;
     }
 }
