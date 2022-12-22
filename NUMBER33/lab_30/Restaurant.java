@@ -10,7 +10,7 @@ public class Restaurant {
         Order order1 = new TableOrder(5);
         order1.add(new Dish(300, "Pelmeni", "dish"));
         order1.add(new Dish(1000000,"Chak-Chak","dish"));
-        order1.add(new Drink(100, "Vodka", "drink", 37.5, DrinkTypeEnum.VODKA));
+        order1.add(new Drink(100, "Vodka", "drink", 42, DrinkTypeEnum.VODKA));
         tableOrdersManager.add(order1, 2);
         MenuItem[] items = tableOrdersManager.getOrder(1).getItems();
         System.out.println("Table : 1");
