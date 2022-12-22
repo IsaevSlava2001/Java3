@@ -18,6 +18,8 @@ C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER22
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER23
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER24
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER25
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER26
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER28
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER3
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER4
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER5
@@ -27,5 +29,11 @@ C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER8
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\NUMBER9
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\oop_prac_task_1-7.pdf
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\README.md
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\~$НИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ.docx
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\~WRL0003.tmp
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\~WRL2587.tmp
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\~WRL3012.tmp
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\~WRL3140.tmp
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\Задания на практические работы -20221213.zip
 C:\Users\1655299\Desktop\ГИТХАБ\Java3\зкфсешсы.txt
+C:\Users\1655299\Desktop\ГИТХАБ\Java3\МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ.docx

@@ -42,11 +42,11 @@ public class Address {
 
 
     public static void main(String [] args){
-        Address first = new Address("Россия, Московская область, Москва, улица 13 Парковая, 25, 1, 56", false);
-        Address third = new Address("Россия, Московская область. Москва; улица 13 Парковая; 25, 1. 56", true);
+        Address first = new Address("Россия, Московская область, Москва, улица 15 Парковая, 43, 16, 255", false);
+        Address third = new Address("Россия, Московская область. Москва; улица 15 Парковая; 43, 16. 255", true);
         System.out.println(first);
         System.out.println(third);
-        Address second = new Address("Россия, Московская область, 56", false);
+        Address second = new Address("Россия, Московская область, 123", false);
         System.out.println(second);
     }
 }
